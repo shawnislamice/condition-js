@@ -1,0 +1,12 @@
+*******
+console.log(10=='10');
+ console.log(10==='10');
+ 
+ Equal condition er khetre jodi amra == diye check kori tokhon shudu value tah consider kore tar type metter of cencern na kintu === dile value er sathe sathe tar type ohh milai dekhbe.
+ 
+ 
+console.log(10!='10'); //False
+ console.log(10!=='10'); //True
+ 
+
+****Variable declare with const is immuteable.
