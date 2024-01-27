@@ -10,3 +10,27 @@ console.log(10!='10'); //False
  
 
 ****Variable declare with const is immuteable.
+if(isLeader){
+    console.log("Leading is coming");
+}
+else{
+    console.log("DO nor enter")
+}
+
+Jokhon condition er vitore shudu variable likha tar mane holo holo variable tah just true kine seh dekhbe hole execute hobe.
+
+if(!isLeader){
+    console.log("The condition is false");
+}
+else{
+    console.log("The condition is true");
+}
+
+
+Abar logical not use korle tah false represent korbe.
+
+***Why condition requires?
+
+***Control behavior
+***Determine whether or not pieces of code can run.
+
